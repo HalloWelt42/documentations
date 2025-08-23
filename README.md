@@ -1,0 +1,1 @@
+Am besten öffnest Du den Projektordner nach dem Clonen mit obsidian
