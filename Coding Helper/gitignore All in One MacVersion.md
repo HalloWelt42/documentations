@@ -25,7 +25,7 @@ __pycache__/              # Zwischenspeicher für kompilierten Code
 *.py[cod]                 # *.pyc, *.pyo, *.pyd
 *$py.class
 
-# C‑Extensions (z. B. .so‑Dateien)
+# C‑Extensions (z.B. .so‑Dateien)
 *.so
 
 # Distribution / Packaging
@@ -72,7 +72,7 @@ virtualenv/
 __pypackages__/
 
 # ---------------------------------------------------------
-# IDEs / Editoren – PyCharm, VS Code, … 
+# IDEs / Editoren – PyCharm, VSCode, … 
 # ---------------------------------------------------------
 # PyCharm 
 #  (empfohlen: 
@@ -83,7 +83,7 @@ __pypackages__/
 *.iws
 *.ipr
 
-# Visual Studio Code (falls du es gelegentlich nutzt)
+# VisualStudio Code (falls du es gelegentlich nutzt)
 .vscode/
 
 # Sublime Text
@@ -106,11 +106,11 @@ __pypackages__/
 logs/
 *.log                     # Log‑Dateien
 
-# Datenbank‑Dateien (z. B. SQLite)
+# Datenbank‑Dateien (z.B. SQLite)
 *.sqlite3
 *.db
 
-# Generierte Mediendateien (falls du z. B. Bilder/Assets im Build‑Prozess erzeugst)
+# Generierte Mediendateien (falls du z.B. Bilder/Assets im Build‑Prozess erzeugst)
 media/
 
 # ---------------------------------------------------------
@@ -120,5 +120,4 @@ media/
 # .idea/runConfigurations.xml   # Beispiel: Run‑Konfigurationen teilen
 # .env.example                  # Vorlage für Umgebungsvariablen 
 #                                 (nicht das eigentliche .env)
-
 ```
